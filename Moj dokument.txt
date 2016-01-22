@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-W tym dokumencie mowie ze lubie koszykowke
 Tu juz pokazuje jak siê tworzy nowe ga³êzie
 No jeszcze to zostanie w masterze
 Teraz dodam cos do mastera
